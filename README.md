@@ -32,7 +32,9 @@ print("Square root of the number:",newton_method(a))
 
 ## Output:
 
-![Screenshot (67)](https://user-images.githubusercontent.com/119395610/212649425-204f0b07-936e-4cf8-9768-61615fd79f4f.png)
+![WhatsApp Image 2023-01-22 at 16 19 15](https://user-images.githubusercontent.com/119395610/213912020-f4fb5bcf-aa6b-4fe1-b153-2fe45652ad1c.jpg)
+![WhatsApp Image 2023-01-22 at 16 19 25](https://user-images.githubusercontent.com/119395610/213912031-10080b81-24e7-470c-92dd-4264da72de78.jpg)
+
 
 
 
